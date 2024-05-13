@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rafael Sampaio</h1>
 <h3 align="center">I'm passionate about Artificial intelligence, Data and Technology</h3>
 
-- 🔭 I’m currently working on **Data Analysis and Visualization tools**
+- 🔭 I’m currently working with **Data Engineering**
 
-- 🌱 I’m currently learning **Python, SQL and Tableau**
+- 🌱 I’m currently learning **Apache Airflow and Azure Cloud**
 
-- 👨‍💻 All of my projects are available on [my portfolio](my portfolio)
+- 👨‍💻 All of my projects are available on [my portfolio]
 
-- 💬 Ask me about **Python and Excel**
+- 💬 Ask me about **Python and SQL**
 
-- 📫 How to reach me **rafaelsimoes5.rs@gmail.com**
+- 📫 How to reach me **rafaelsimoes.engenharia@gmail.com**
 
 - 📄 Know about my experiences on [https://www.linkedin.com/in/rafaelsimoessampaio/](https://www.linkedin.com/in/rafaelsimoessampaio/)
 
